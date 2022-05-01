@@ -10,11 +10,6 @@ Student Email: s3948453@student.rmit.edu.au
 
 I was born in India, and raised in Australia. I graduated high school last year and I am currently a first year student studying Bachelor of Information Technology at RMIT University. At home I speak my mother-tongue, Malayalam and I can also speak fluent English. I’m passionate about dancing and I am looking forward to exploring and learning new skills as well as meeting new people throughout my time at RMIT University. 
 
-![unnamed](https://user-images.githubusercontent.com/101083668/166129699-323cc0f6-18ea-49e6-8984-7f30e4742ee0.jpg)
-
-
-
-
 
 ## INTEREST IN IT
 
